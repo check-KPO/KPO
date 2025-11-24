@@ -1,0 +1,7 @@
+<Solution>
+  <Project Path="AutoMarketApp.Entities/AutoMarketApp.Entities.csproj" />
+  <Project Path="AutoMarketApp.Host/AutoMarketApp.Host.csproj" />
+  <Project Path="AutoMarketApp.Infrastructure/AutoMarketApp.Infrastructure.csproj" />
+  <Project Path="AutoMarketApp.Presentation/AutoMarketApp.Presentation.csproj" />
+  <Project Path="AutoMarketApp.UseCases/AutoMarketApp.UseCases.csproj" />
+</Solution>
