@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AppWithoutSolid/AppWithoutSolid.csproj" />
+  <Project Path="AppWithSolid/AppWithSolid.csproj" />
+</Solution>
