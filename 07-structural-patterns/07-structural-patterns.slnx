@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AppWithStructuralPatterns/AppWithStructuralPatterns.csproj" />
+  <Project Path="ThirdPartyLibrary/ThirdPartyLibrary.csproj" />
+</Solution>

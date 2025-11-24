@@ -1,0 +1,10 @@
+<report>
+  <title>Отчет</title>
+  <date>2025-10-20</date>
+  <row>
+    <value>Количество проданных автомобилей: 100</value>
+  </row>
+  <row>
+    <value>Количество проданных мотоциклов: 50</value>
+  </row>
+</report>
