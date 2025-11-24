@@ -1,0 +1,20 @@
+{
+  "Customers": [
+    {
+      "Id": "4ca2c647-d81a-4152-b104-ce2c46986147",
+      "Name": "Vasya",
+      "Email": "asdasd@asdasd.com",
+      "Phone": "\u002B79123456789"
+    }
+  ],
+  "Cars": [
+    {
+      "Vin": "123123123",
+      "Reservation": null,
+      "Sale": {
+        "SaleDate": "2025-11-10T00:22:12.2229781+00:00",
+        "CustomerId": "4ca2c647-d81a-4152-b104-ce2c46986147"
+      }
+    }
+  ]
+}

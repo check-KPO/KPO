@@ -1,0 +1,6 @@
+@AutoMarketApp.Host_HostAddress = http://localhost:5016
+
+GET {{AutoMarketApp.Host_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
