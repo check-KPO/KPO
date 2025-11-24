@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="AppWithDependencyInjection/AppWithDependencyInjection.csproj" />
+  <Project Path="AppWithServiceLocator/AppWithServiceLocator.csproj" />
+</Solution>
